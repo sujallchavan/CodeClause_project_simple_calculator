@@ -28,13 +28,13 @@
         android:ems="10"
         android:hint="enter no"
         android:inputType="number"
-        android:textColor="#E29E9D"
+        android:textColor="#F0EBFA"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.488"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.514" />
+        app:layout_constraintVertical_bias="0.514"A/>
 
     <EditText
         android:id="@+id/editTextTextPersonName2"
@@ -43,8 +43,8 @@
         android:ems="10"
         android:hint="enter no"
         android:inputType="number"
-        android:textColor="#412670"
-        android:textColorLink="@color/purple_200"
+        android:textColor="#D3CCDF"
+        android:textColorLink="#412670"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -119,7 +119,7 @@
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textColor="#3F51B5"
+        android:textColor="#E29E9D"
         android:textSize="30dp"
         app:layout_constraintBottom_toTopOf="@+id/editTextTextPersonName"
         app:layout_constraintEnd_toEndOf="parent"
